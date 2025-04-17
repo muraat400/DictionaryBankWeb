@@ -65,6 +65,7 @@ export class AppComponent {
     let inputNumber:number = parseInt(input.value, 10);
     if(inputNumber > 0 && inputNumber <= this.wordsData.Words.length){
       this.counter = inputNumber - 1;
+      this.isVisible = "hidden";
     }
   }
 }
