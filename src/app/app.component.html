@@ -30,10 +30,10 @@
   <label class="h4"> {{ counter + 1 }} / {{ wordsData.Words.length }}
   </label>
   <label class="h4">{{ wordsData.Words[counter].English }}</label>
-  <label class="h4" style="visibility: {{ isVisible }}">{{ wordsData.Words[counter].Turkish }}</label>
-  <label class="h4" style="visibility: {{ isVisible }}">{{ wordsData.Words[counter].Pronunciation }}</label>
-  <span style="visibility: {{ isVisible }}" *ngFor="let word of wordsData.Words[counter].Sentence; let i = index"> {{ word.SentenceEn }} <br/> {{ word.SentenceTr }} </span>
-  <span style="visibility: {{ isVisible }}" *ngFor="let note of wordsData.Words[counter].Notes; let i = index"> {{ note }} </span>
+  <label class="h4" [style.visibility]="isVisible">{{ wordsData.Words[counter].Turkish }}</label>
+  <label class="h4" [style.visibility]="isVisible">{{ wordsData.Words[counter].Pronunciation }}</label>
+  <span [style.visibility]="isVisible" *ngFor="let word of wordsData.Words[counter].Sentence; let i = index"> {{ word.SentenceEn }} <br/> {{ word.SentenceTr }} </span>
+  <span [style.visibility]="isVisible" *ngFor="let note of wordsData.Words[counter].Notes; let i = index"> {{ note }} </span>
 </div>
 <div class="fixed-buttons d-flex bottom">
   <button class="btn btn-primary w-50 rounded-0 btn-lg" (click)="btnPrev()">Prev</button>
