@@ -1,0 +1,42 @@
+{
+    "Words": [
+      {
+        "Id": 1,
+        "English": "abandon",
+        "Turkish": [
+          "terk etmek"
+        ],
+        "Sentence": [
+          {
+            "SentenceEn": "he abandoned his children",
+            "SentenceTr": "çocuklarını terk etti"
+          }
+        ],
+        "Pronunciation": "abendın",
+        "Notes": [
+          ""
+        ],
+        "CreatedOn": "04/16/2025 18:53:26",
+        "UpdatedOn": "04/16/2025 18:53:29"
+      },
+      {
+        "Id": 2,
+        "English": "ability",
+        "Turkish": [
+          "yetenek"
+        ],
+        "Sentence": [
+          {
+            "SentenceEn": "he has the ability to do this job",
+            "SentenceTr": "o bu işi yapacak yeteneğe sahiptir"
+          }
+        ],
+        "Pronunciation": "abilıtiğ",
+        "Notes": [
+          ""
+        ],
+        "CreatedOn": "04/16/2025 18:53:26",
+        "UpdatedOn": "04/16/2025 18:53:29"
+      }
+    ]
+  }
