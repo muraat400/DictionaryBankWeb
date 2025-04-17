@@ -26,7 +26,7 @@ export interface WordsData {
   providedIn: 'root'
 })
 export class WordService {
-  private jsonUrl = 'assets/output.json';
+  private jsonUrl = 'assets/Output.json';
 
   constructor(private http: HttpClient) { }
 
