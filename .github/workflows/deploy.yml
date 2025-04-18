@@ -5,29 +5,35 @@ on:
     branches:
       - main
 
+env:
+  ACTIONS_STEP_DEBUG: true  # 🔍 Debug loglarını aktif eder
+  ACTIONS_RUNNER_DEBUG: true
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout source code
+    - name: 📦 Checkout source code
       uses: actions/checkout@v3
+      with:
+        persist-credentials: false  # GitHub Pages ile çakışmaması için önerilir
 
-    - name: Setup Node.js
+    - name: ⚙️ Setup Node.js
       uses: actions/setup-node@v3
       with:
         node-version: '18'
 
-    - name: Install dependencies
+    - name: 📥 Install dependencies
       run: npm install
 
-    - name: Build Angular project
+    - name: 🛠️ Build Angular project
       run: npm run build -- --configuration production --base-href=/DictionaryBankWeb/
-      
-    - name: Clean previous deployment folder if exists
+
+    - name: 🧹 Clean previous deployment folder if exists
       run: rm -rf github-pages-deploy-action-temp-deployment-folder
-    
-    - name: Deploy to GitHub Pages
+
+    - name: 🚀 Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@v4
       with:
         branch: gh-pages
