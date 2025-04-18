@@ -40,4 +40,4 @@ jobs:
       with:
         branch: gh-pages
         folder: dist/DictionaryBankWeb
-        token: ${{ secrets.GITHUB_TOKEN }}
+        token: ${{ secrets.GH_PAT }}
