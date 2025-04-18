@@ -23,7 +23,10 @@ jobs:
 
     - name: Build Angular project
       run: npm run build -- --configuration production --base-href=/DictionaryBankWeb/
-
+      
+    - name: Clean previous deployment folder if exists
+      run: rm -rf github-pages-deploy-action-temp-deployment-folder
+    
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@v4
       with:
