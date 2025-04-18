@@ -39,5 +39,5 @@ jobs:
       uses: JamesIves/github-pages-deploy-action@v4
       with:
         branch: gh-pages
-        folder: dist/DictionaryBankWeb
+        folder: dist/DictionaryBankWeb/browser
         token: ${{ secrets.GH_PAT }}
