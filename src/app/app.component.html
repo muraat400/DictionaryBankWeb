@@ -35,12 +35,12 @@
   <span style="font-size:20px" [style.visibility]="isVisible" *ngFor="let word of wordsData.Words[counter].Sentence; let i = index"> {{ word.SentenceEn }} <br/> {{ word.SentenceTr }} </span>
   <span style="font-size:20px" [style.visibility]="isVisible" *ngFor="let note of wordsData.Words[counter].Notes; let i = index"> {{ note }} </span>
 </div>
-<div class="fixed-buttons d-flex bottom" style="bottom:52px">
+<div class="fixed-buttons d-flex bottom">
   <button class="btn btn-primary w-50 rounded-0 btn-lg" (click)="btnPrev()">Prev</button>
   <button class="btn btn-success w-50 rounded-0 btn-lg" (click)="btnNext()">Next</button>
 </div>
 
-<div class="fixed-buttons d-flex bottom" style="bottom:100px">
+<div class="fixed-buttons d-flex bottom" style="bottom:47px">
   <button class="btn btn-secondary w-100 rounded-0 btn-lg" (click)="btnShow()">Show</button>
 </div>
 
