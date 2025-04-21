@@ -488,7 +488,7 @@
           "SentenceTr": "postane yolun karşısındadır"
         }
       ],
-      "Pronunciation": "akross",
+      "Pronunciation": "ıkross",
       "Notes": [
         ""
       ],
@@ -5526,12 +5526,17 @@
       "Id": 284,
       "English": "before",
       "Turkish": [
-        "den önce"
+        "den önce",
+        "önünde"
       ],
       "Sentence": [
         {
           "SentenceEn": "he had his dinner before going out",
           "SentenceTr": "dışarı çıkmadan önce akşam yemeğini yedi"
+        },
+        {
+          "SentenceEn": "a bright future lies before her",
+          "SentenceTr": "onun önünde parlak bir gelecek var"
         }
       ],
       "Pronunciation": "bifoor",
@@ -5539,7 +5544,7 @@
         ""
       ],
       "CreatedOn": "04/19/2025 11:33:53",
-      "UpdatedOn": null
+      "UpdatedOn": "04/21/2025 22:32:27"
     },
     {
       "Id": 285,
@@ -11915,7 +11920,8 @@
       "English": "commission",
       "Turkish": [
         "komisyon",
-        "görev"
+        "görev",
+        "hizmete sokmak"
       ],
       "Sentence": [
         {
@@ -11925,14 +11931,18 @@
         {
           "SentenceEn": "i finished a commission a week ago",
           "SentenceTr": "bir hafta önce bir görevi bitirdim"
+        },
+        {
+          "SentenceEn": "türkiye's communications satellite coverage will now reach over 60 percent of the global population with the commissioning of the domestically-produced türksat 6a, president recep tayyip erdoğan announced on april 2",
+          "SentenceTr": "türkiye’nin iletişim uydusu kapsama alanı, yerli üretim türksat 6a’nın hizmete alınmasıyla artık dünya nüfusunun %60’ından fazlasına ulaşacak, cumhurbaşkanı recep tayyip erdoğan 21 nisan’da açıkladı"
         }
       ],
-      "Pronunciation": "kımişın",
+      "Pronunciation": "komişın",
       "Notes": [
         ""
       ],
       "CreatedOn": "04/19/2025 11:33:53",
-      "UpdatedOn": "04/19/2025 11:33:53"
+      "UpdatedOn": "04/21/2025 22:32:27"
     },
     {
       "Id": 617,
@@ -34095,20 +34105,25 @@
       "Id": 1760,
       "English": "launch",
       "Turkish": [
-        "fırlatmak"
+        "fırlatmak",
+        "piyasaya sürmek"
       ],
       "Sentence": [
         {
           "SentenceEn": "they launched another satellite",
           "SentenceTr": "başka bir uygu fırlattılar"
+        },
+        {
+          "SentenceEn": "the company will launch a new smartphone next month",
+          "SentenceTr": "şirket gelecek ay yeni bir akıllı telefon piyasaya sürecek"
         }
       ],
-      "Pronunciation": "lonç",
+      "Pronunciation": "loonç",
       "Notes": [
         ""
       ],
       "CreatedOn": "04/19/2025 11:33:53",
-      "UpdatedOn": null
+      "UpdatedOn": "04/21/2025 22:32:27"
     },
     {
       "Id": 1761,
@@ -41934,7 +41949,8 @@
       "English": "operate",
       "Turkish": [
         "ameliyat etmek",
-        "çalışmak"
+        "çalışmak",
+        "işletmek"
       ],
       "Sentence": [
         {
@@ -41944,6 +41960,10 @@
         {
           "SentenceEn": "how does the machine pgerate",
           "SentenceTr": "makine nasıl çalışıyor"
+        },
+        {
+          "SentenceEn": "we had to sell the building because for years we operated it in the red",
+          "SentenceTr": "biz binayı satmak zorunda kaldık çünkü onu zararda işlettik"
         }
       ],
       "Pronunciation": "opıreyt",
@@ -41951,7 +41971,7 @@
         ""
       ],
       "CreatedOn": "04/19/2025 11:33:53",
-      "UpdatedOn": "04/19/2025 11:33:53"
+      "UpdatedOn": "04/21/2025 22:32:27"
     },
     {
       "Id": 2160,
@@ -48491,7 +48511,7 @@
       "Id": 2496,
       "English": "qualification",
       "Turkish": [
-        "yeterlik"
+        "yeterlilik"
       ],
       "Sentence": [
         {
@@ -69245,6 +69265,623 @@
       ],
       "CreatedOn": "04/19/2025 11:33:54",
       "UpdatedOn": null
+    },
+    {
+      "Id": 3548,
+      "English": "coverage",
+      "Turkish": [
+        "kapsama alanı"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "türkiye's communications satellite coverage will now reach over 60 percent of the global population with the commissioning of the domestically-produced türksat 6a, president recep tayyip erdoğan announced on april 2",
+          "SentenceTr": "türkiye’nin iletişim uydusu kapsama alanı, yerli üretim türksat 6a’nın hizmete alınmasıyla artık dünya nüfusunun %60’ından fazlasına ulaşacak, cumhurbaşkanı recep tayyip erdoğan 21 nisan’da açıkladı"
+        }
+      ],
+      "Pronunciation": "kavırıc",
+      "Notes": [],
+      "CreatedOn": "04/21/2025 22:32:27",
+      "UpdatedOn": null
+    },
+    {
+      "Id": 3549,
+      "English": "domestically-produced",
+      "Turkish": [
+        "yerli üretim"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "the country launched its first domestically-produced electric car last year",
+          "SentenceTr": "ülke geçen yıl ilk yerli üretim elektrikli arabasını piyasaya sürdü"
+        }
+      ],
+      "Pronunciation": "domestikılıi prodüst",
+      "Notes": [],
+      "CreatedOn": "04/21/2025 22:32:27",
+      "UpdatedOn": null
+    },
+    {
+      "Id": 3550,
+      "English": "in the red",
+      "Turkish": [
+        "borçlu",
+        "zararda"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "the future of our company is at stake. we have been heavily in the red for the last couple of years",
+          "SentenceTr": "şirketimizin geleceği tehlikede. son birkaç yıldır aşırı derecede borçluyuz"
+        },
+        {
+          "SentenceEn": "we had to sell the building because for years we operated it in the red",
+          "SentenceTr": "biz binayı satmak zorunda kaldık çünkü onu zararda işlettik"
+        }
+      ],
+      "Pronunciation": "in dı red",
+      "Notes": [],
+      "CreatedOn": "04/21/2025 22:32:27",
+      "UpdatedOn": "04/21/2025 22:32:27"
+    },
+    {
+      "Id": 3551,
+      "English": "be at stake",
+      "Turkish": [
+        "tehlikede"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "our reputation is at stake",
+          "SentenceTr": "itibarımız tehlikede"
+        }
+      ],
+      "Pronunciation": "sıteyk",
+      "Notes": [],
+      "CreatedOn": "04/21/2025 22:32:27",
+      "UpdatedOn": null
+    },
+    {
+      "Id": 3552,
+      "English": "couple of years",
+      "Turkish": [
+        "birkaç yıl"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "i lived in london for a couple of years",
+          "SentenceTr": "londra’da birkaç yıl yaşadım"
+        }
+      ],
+      "Pronunciation": "kapıl of yiırz",
+      "Notes": [],
+      "CreatedOn": "04/21/2025 22:32:27",
+      "UpdatedOn": null
+    },
+    {
+      "Id": 3553,
+      "English": "meticulous",
+      "Turkish": [
+        "titiz"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "sami bakir has been a meticulous investigator",
+          "SentenceTr": "sami bekir titiz bir araştırmacıydı"
+        }
+      ],
+      "Pronunciation": "metikılıs",
+      "Notes": [],
+      "CreatedOn": "04/21/2025 22:32:27",
+      "UpdatedOn": null
+    },
+    {
+      "Id": 3554,
+      "English": "intensive",
+      "Turkish": [
+        "yoğun"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "i've started exercising more intensively for a shorter amount of time",
+          "SentenceTr": "ben kısa bir süre için daha yoğun egzersiz yapmaya başladım"
+        },
+        {
+          "SentenceEn": "the hospital restricts the number of visitors who can enter the intensive care unit",
+          "SentenceTr": "hastane yoğun bakım ünitesine girebilen ziyaretçi sayısını kısıtlıyor"
+        }
+      ],
+      "Pronunciation": "intensif",
+      "Notes": [],
+      "CreatedOn": "04/21/2025 22:32:27",
+      "UpdatedOn": "04/21/2025 22:32:27"
+    },
+    {
+      "Id": 3555,
+      "English": "for a shorter amount of time",
+      "Turkish": [
+        "daha kısa bir zaman için"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "you can feel the effects even if you take it for a shorter amount of time",
+          "SentenceTr": "onu kısa bir süreliğine alsan bile etkilerini hissedebilirsin"
+        }
+      ],
+      "Pronunciation": "for e şortır emaunt of taym",
+      "Notes": [],
+      "CreatedOn": "04/21/2025 22:32:27",
+      "UpdatedOn": null
+    },
+    {
+      "Id": 3556,
+      "English": "for a short time",
+      "Turkish": [
+        "kısa bir süreliğine"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "i only stayed there for a short time",
+          "SentenceTr": "orada sadece kısa bir süre kaldım"
+        }
+      ],
+      "Pronunciation": "for e şort taym",
+      "Notes": [],
+      "CreatedOn": "04/21/2025 22:32:27",
+      "UpdatedOn": null
+    },
+    {
+      "Id": 3557,
+      "English": "for a little while",
+      "Turkish": [
+        "bir süreliğine"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "let's rest for a little while",
+          "SentenceTr": "kısa bir süreliğine dinlenelim"
+        }
+      ],
+      "Pronunciation": "for e lidıl vayl",
+      "Notes": [],
+      "CreatedOn": "04/21/2025 22:32:27",
+      "UpdatedOn": null
+    },
+    {
+      "Id": 3558,
+      "English": "briefly",
+      "Turkish": [
+        "kısaca"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "she briefly explained the situation",
+          "SentenceTr": "durumu kısaca açıkladı"
+        }
+      ],
+      "Pronunciation": "briyıflıi",
+      "Notes": [],
+      "CreatedOn": "04/21/2025 22:32:27",
+      "UpdatedOn": null
+    },
+    {
+      "Id": 3559,
+      "English": "restrict",
+      "Turkish": [
+        "kısıtlamak",
+        "sınırlamak"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "they want to restrict access to certain websites",
+          "SentenceTr": "belirli web sitelerine erişimi kısıtlamak istiyorlar"
+        },
+        {
+          "SentenceEn": "the doctor told me to restrict my sugar intake",
+          "SentenceTr": "doktor, şeker tüketimimi sınırlamamı söyledi"
+        }
+      ],
+      "Pronunciation": "rıstrikt",
+      "Notes": [],
+      "CreatedOn": "04/21/2025 22:32:27",
+      "UpdatedOn": "04/21/2025 22:32:27"
+    },
+    {
+      "Id": 3560,
+      "English": "restricted",
+      "Turkish": [
+        "sınırlı",
+        "kısıtlı"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "visibility was severely restricted in the heavy fog",
+          "SentenceTr": "görüş yoğun siste ciddi olarak sınırlı idi"
+        },
+        {
+          "SentenceEn": "i feel always restricted here",
+          "SentenceTr": "ben burada kendimi her zaman kısıtlı hissediyorum"
+        },
+        {
+          "SentenceEn": "freedom of speech is restricted in some countries",
+          "SentenceTr": "konuşma özgürlüğü bazı ülkelerde kısıtlıdır"
+        }
+      ],
+      "Pronunciation": "rıstriktıd",
+      "Notes": [],
+      "CreatedOn": "04/21/2025 22:32:27",
+      "UpdatedOn": "04/21/2025 22:32:27"
+    },
+    {
+      "Id": 3561,
+      "English": "arduous – zahmetli, zorlu",
+      "Turkish": [
+        "zorlu"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "she went through a long and arduous vocational course",
+          "SentenceTr": "o uzun ve zorlu bir meslek kursundan geçti"
+        }
+      ],
+      "Pronunciation": "arcuıs",
+      "Notes": [],
+      "CreatedOn": "04/21/2025 22:32:27",
+      "UpdatedOn": null
+    },
+    {
+      "Id": 3562,
+      "English": "arduous",
+      "Turkish": [
+        "zahmetli",
+        "zorlayıcı"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "she went through an arduous training program",
+          "SentenceTr": "zahmetli bir eğitim programından geçti"
+        },
+        {
+          "SentenceEn": "completing the project was arduous but rewarding",
+          "SentenceTr": "projeyi tamamlamak zorlayıcıydı, ama ödüllendiriciydi"
+        }
+      ],
+      "Pronunciation": "arcuıs",
+      "Notes": [],
+      "CreatedOn": "04/21/2025 22:32:27",
+      "UpdatedOn": "04/21/2025 22:32:27"
+    },
+    {
+      "Id": 3563,
+      "English": "vocational",
+      "Turkish": [
+        "mesleki"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "he's attending a vocational school to become a mechanic",
+          "SentenceTr": "mekanikçi olmak için meslek okuluna gidiyor"
+        }
+      ],
+      "Pronunciation": "vokeyşınıl",
+      "Notes": [],
+      "CreatedOn": "04/21/2025 22:32:27",
+      "UpdatedOn": null
+    },
+    {
+      "Id": 3564,
+      "English": "span",
+      "Turkish": [
+        "yayılmak",
+        "kapsamak"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "her career spanned three decades",
+          "SentenceTr": "kariyeri üç on yıla yayıldı"
+        },
+        {
+          "SentenceEn": "his work spans multiple disciplines",
+          "SentenceTr": "çalışmaları birçok disiplini kapsıyor"
+        },
+        {
+          "SentenceEn": "the bridge spans the river",
+          "SentenceTr": "köprü nehrin üzerine uzanıyor"
+        }
+      ],
+      "Pronunciation": "spen",
+      "Notes": [],
+      "CreatedOn": "04/21/2025 22:32:27",
+      "UpdatedOn": "04/21/2025 22:32:27"
+    },
+    {
+      "Id": 3565,
+      "English": "a time span",
+      "Turkish": [
+        "süre"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "the project was completed in a short time span",
+          "SentenceTr": "proje kısa bir sürede tamamlandı"
+        }
+      ],
+      "Pronunciation": "e taym spen",
+      "Notes": [],
+      "CreatedOn": "04/21/2025 22:32:27",
+      "UpdatedOn": null
+    },
+    {
+      "Id": 3566,
+      "English": "life span",
+      "Turkish": [
+        "yaşam süresi"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "the average human life span is increasing",
+          "SentenceTr": "ortalama insan ömür süresi artıyor"
+        }
+      ],
+      "Pronunciation": "layf spen",
+      "Notes": [],
+      "CreatedOn": "04/21/2025 22:32:27",
+      "UpdatedOn": null
+    },
+    {
+      "Id": 3567,
+      "English": "span of control",
+      "Turkish": [
+        "kontrol alanı"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "a manager's span of control affects efficiency",
+          "SentenceTr": "bir yöneticinin kontrol alanı, verimliliği etkiler"
+        }
+      ],
+      "Pronunciation": "spen of kıntrool",
+      "Notes": [],
+      "CreatedOn": "04/21/2025 22:32:27",
+      "UpdatedOn": null
+    },
+    {
+      "Id": 3568,
+      "English": "span across",
+      "Turkish": [
+        "e yayılmak"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "his influence spans across multiple generations",
+          "SentenceTr": "etkisi birçok nesle yayılıyor"
+        }
+      ],
+      "Pronunciation": "spen of ıkross",
+      "Notes": [],
+      "CreatedOn": "04/21/2025 22:32:27",
+      "UpdatedOn": null
+    },
+    {
+      "Id": 3569,
+      "English": "span over",
+      "Turkish": [
+        "kapsamak"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "the story spans over 100 years",
+          "SentenceTr": "hikâye 100 yılı kapsıyor"
+        }
+      ],
+      "Pronunciation": "spen ovır",
+      "Notes": [],
+      "CreatedOn": "04/21/2025 22:32:27",
+      "UpdatedOn": null
+    },
+    {
+      "Id": 3570,
+      "English": "multiple",
+      "Turkish": [
+        "birçok",
+        "birkaç",
+        "çoklu",
+        "çok",
+        "birden çok"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "this book is written in multiple languages",
+          "SentenceTr": "bu kitap birçok dilde yazılmıştır"
+        },
+        {
+          "SentenceEn": "i can't imagine how much more colourless life would be without multiple languages",
+          "SentenceTr": "yaşamın birçok dil olmadan ne kadar fazla renksiz olacağını düşünemiyorum"
+        },
+        {
+          "SentenceEn": "there were multiple disclaimers at the start of the video",
+          "SentenceTr": "videonun başında birkaç feragatname vardı"
+        },
+        {
+          "SentenceEn": "the judge was forced to slam her gavel down multiple times in order to restore order to the court",
+          "SentenceTr": "hakim mahkemeye düzeni sağlamak için birkaç sefer tokmağı aşağı vurmak zorunda kaldı"
+        },
+        {
+          "SentenceEn": "multiple injuries have been reported",
+          "SentenceTr": "çoklu yaralanmalar bildirildi"
+        },
+        {
+          "SentenceEn": "tom suffers from multiple sclerosis",
+          "SentenceTr": "tom çoklu doku sertleşmesinden muzdarip"
+        },
+        {
+          "SentenceEn": "one gesture may have multiple meanings, while a single meaning can be expressed by a number of gestures",
+          "SentenceTr": "bir tek anlam çok sayıda jestlerle ifade edilebilirken, bir jest birden fazla anlamlara sahip olabilir"
+        },
+        {
+          "SentenceEn": "the test was multiple choice",
+          "SentenceTr": "test çoktan seçmeliydi"
+        },
+        {
+          "SentenceEn": "tom has multiple talents",
+          "SentenceTr": "tom'un birden çok yeteneği vardır"
+        }
+      ],
+      "Pronunciation": "maltipıl",
+      "Notes": [],
+      "CreatedOn": "04/21/2025 22:32:27",
+      "UpdatedOn": "04/21/2025 22:32:27"
+    },
+    {
+      "Id": 3571,
+      "English": "in terms of",
+      "Turkish": [
+        "açısından"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "with the gains obtained, we have caught an important opportunity in terms of creating our national satellite brand and establishing a national space company\" he said",
+          "SentenceTr": "elde edilen kazanımlarla, ulusal uydu markamızı oluşturmak ve ulusal bir uzay şirketi kurmak açısından önemli bir fırsat yakaladık\" dedi"
+        }
+      ],
+      "Pronunciation": "in törmz of",
+      "Notes": [],
+      "CreatedOn": "04/21/2025 22:32:27",
+      "UpdatedOn": null
+    },
+    {
+      "Id": 3572,
+      "English": "highlight",
+      "Turkish": [
+        "vurgulamak",
+        "altını çizmek",
+        "en dikkat çekici an",
+        "önemli kısım",
+        "önemli olay"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "this report highlights the need for urgent action",
+          "SentenceTr": "bu rapor, acil eylem ihtiyacını vurguluyor"
+        },
+        {
+          "SentenceEn": "the teacher highlighted the key points in the lecture",
+          "SentenceTr": "öğretmen, derste önemli noktaların altını çizdi"
+        },
+        {
+          "SentenceEn": "the highlight of the trip was the sunset at the beach",
+          "SentenceTr": "seyahatin en güzel anı, plajdaki gün batımıydı"
+        },
+        {
+          "SentenceEn": "let’s watch the match highlights",
+          "SentenceTr": "haydi maçın özetini (en önemli anlarını) izleyelim"
+        },
+        {
+          "SentenceEn": "this was the highlight of my day",
+          "SentenceTr": "bu, günümün önemli olayıydı"
+        }
+      ],
+      "Pronunciation": "haylayt",
+      "Notes": [],
+      "CreatedOn": "04/21/2025 22:32:27",
+      "UpdatedOn": "04/21/2025 22:32:27"
+    },
+    {
+      "Id": 3573,
+      "English": "flaw",
+      "Turkish": [
+        "kusur"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "the author's juxtaposition of the two characters highlights their flaws",
+          "SentenceTr": "yazarın iki karakterinin yan yana koyulması onların kusurlarını vurguluyor"
+        }
+      ],
+      "Pronunciation": "floo",
+      "Notes": [],
+      "CreatedOn": "04/21/2025 22:32:27",
+      "UpdatedOn": null
+    },
+    {
+      "Id": 3574,
+      "English": "untrustworthy",
+      "Turkish": [
+        "güvenilmez"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "a character flaw made him untrustworthy",
+          "SentenceTr": "bir karakter kusuru, onu güvenilmez yaptı"
+        }
+      ],
+      "Pronunciation": "antrastvördi",
+      "Notes": [],
+      "CreatedOn": "04/21/2025 22:32:27",
+      "UpdatedOn": null
+    },
+    {
+      "Id": 3575,
+      "English": "turn out",
+      "Turkish": [
+        "ortaya çıkmak",
+        "sonuçlanmak"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "he turned out to be untrustworthy",
+          "SentenceTr": "meğerse güvenilmez biriymiş"
+        },
+        {
+          "SentenceEn": "it turned out that she was right",
+          "SentenceTr": "ortaya çıktı ki haklıymış"
+        },
+        {
+          "SentenceEn": "things didn’t turn out as we planned",
+          "SentenceTr": "işler planladığımız gibi gitmedi"
+        }
+      ],
+      "Pronunciation": "törn aut",
+      "Notes": [],
+      "CreatedOn": "04/21/2025 22:32:27",
+      "UpdatedOn": "04/21/2025 22:32:27"
+    },
+    {
+      "Id": 3576,
+      "English": "turn out to be",
+      "Turkish": [
+        "olduğu ortaya çıkmak"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "i guessed he was honest, but he turned out to be tricky",
+          "SentenceTr": "onun dürüst olduğunu sanmıştım ama hilekâr biri çıktı"
+        }
+      ],
+      "Pronunciation": "törn aut tu bi",
+      "Notes": [],
+      "CreatedOn": "04/21/2025 22:32:27",
+      "UpdatedOn": null
+    },
+    {
+      "Id": 3577,
+      "English": "tricky",
+      "Turkish": [
+        "aldatıcı",
+        "hilekar"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "i've heard french is a tricky language",
+          "SentenceTr": "fransızcanın aldatıcı bir dil olduğunu duydum"
+        },
+        {
+          "SentenceEn": "tom is a tricky little devil",
+          "SentenceTr": "tom hilekar bir küçük şeytandır"
+        }
+      ],
+      "Pronunciation": "triki",
+      "Notes": [],
+      "CreatedOn": "04/21/2025 22:32:27",
+      "UpdatedOn": "04/21/2025 22:32:27"
     }
   ]
 }
