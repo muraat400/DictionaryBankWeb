@@ -4922,12 +4922,17 @@
       "Id": 253,
       "English": "base",
       "Turkish": [
-        "dayandırmak"
+        "dayandırmak",
+        "üs"
       ],
       "Sentence": [
         {
           "SentenceEn": "the film is based on a true story",
           "SentenceTr": "film gerçek bir öyküye dayanmaktadır"
+        },
+        {
+          "SentenceEn": "in the cold war era, soviet naval and air bases existed in cuba and vietnam",
+          "SentenceTr": "soğuk savaş döneminde küba ve vietnam'da sovyet deniz ve hava deniz üsleri vardı"
         }
       ],
       "Pronunciation": "beys",
@@ -4935,7 +4940,7 @@
         ""
       ],
       "CreatedOn": "04/19/2025 11:33:53",
-      "UpdatedOn": null
+      "UpdatedOn": "04/23/2025 20:11:29"
     },
     {
       "Id": 254,
@@ -11544,7 +11549,8 @@
       "English": "cold",
       "Turkish": [
         "soğuk",
-        "nezle"
+        "nezle",
+        "soğul algınlığı"
       ],
       "Sentence": [
         {
@@ -11554,6 +11560,10 @@
         {
           "SentenceEn": "she's got a cold",
           "SentenceTr": "nezle olmuş"
+        },
+        {
+          "SentenceEn": "she doesn't dare leave the room for fear she should catch cold",
+          "SentenceTr": "o, soğuk algınlığına yakalanma korkusuyla odadan ayrılmaya cesaret edemiyor"
         }
       ],
       "Pronunciation": "koold",
@@ -11561,7 +11571,7 @@
         ""
       ],
       "CreatedOn": "04/19/2025 11:33:53",
-      "UpdatedOn": "04/19/2025 11:33:53"
+      "UpdatedOn": "04/23/2025 20:11:29"
     },
     {
       "Id": 598,
@@ -16294,12 +16304,17 @@
       "Id": 841,
       "English": "demand",
       "Turkish": [
-        "istek"
+        "istek",
+        "talep etmek"
       ],
       "Sentence": [
         {
           "SentenceEn": "there is no demand for working experience",
           "SentenceTr": "iş tecrübesi istenmiyor"
+        },
+        {
+          "SentenceEn": "i only demand your complete loyalty",
+          "SentenceTr": "ben sadece senin tam bağlılığını talep ediyorum"
         }
       ],
       "Pronunciation": "dimend",
@@ -16307,7 +16322,7 @@
         ""
       ],
       "CreatedOn": "04/19/2025 11:33:53",
-      "UpdatedOn": null
+      "UpdatedOn": "04/23/2025 20:11:29"
     },
     {
       "Id": 842,
@@ -19417,6 +19432,10 @@
         {
           "SentenceEn": "the poor man didn't have a good education",
           "SentenceTr": "yoksul adam iyi bir eğitim almadı"
+        },
+        {
+          "SentenceEn": "education is a form of wealth that can't be stolen",
+          "SentenceTr": "eğitim, çalınamayacak bir zenginlik biçimidir"
         }
       ],
       "Pronunciation": "ecyukeyşın",
@@ -19424,7 +19443,7 @@
         ""
       ],
       "CreatedOn": "04/19/2025 11:33:53",
-      "UpdatedOn": null
+      "UpdatedOn": "04/23/2025 20:11:29"
     },
     {
       "Id": 1005,
@@ -22821,6 +22840,10 @@
         {
           "SentenceEn": "there are 5 people in my family",
           "SentenceTr": "ailemde 5 kişi var"
+        },
+        {
+          "SentenceEn": "she was born into a wealthy family",
+          "SentenceTr": "zengin bir ailede doğdu"
         }
       ],
       "Pronunciation": "femıli",
@@ -22828,7 +22851,7 @@
         ""
       ],
       "CreatedOn": "04/19/2025 11:33:53",
-      "UpdatedOn": null
+      "UpdatedOn": "04/23/2025 20:11:29"
     },
     {
       "Id": 1181,
@@ -24974,12 +24997,17 @@
       "Id": 1291,
       "English": "fortune",
       "Turkish": [
-        "talih"
+        "talih",
+        "servet"
       ],
       "Sentence": [
         {
           "SentenceEn": "you should try your fortune",
           "SentenceTr": "şansını denemelisin"
+        },
+        {
+          "SentenceEn": "my father left me a large fortune",
+          "SentenceTr": "babam bana büyük bir servet bıraktı"
         }
       ],
       "Pronunciation": "forçın",
@@ -24987,7 +25015,7 @@
         ""
       ],
       "CreatedOn": "04/19/2025 11:33:53",
-      "UpdatedOn": null
+      "UpdatedOn": "04/23/2025 20:11:29"
     },
     {
       "Id": 1292,
@@ -25910,12 +25938,17 @@
       "Id": 1340,
       "English": "gap",
       "Turkish": [
-        "boşluk"
+        "boşluk",
+        "fark"
       ],
       "Sentence": [
         {
           "SentenceEn": "please fill in the gaps",
           "SentenceTr": "lütfen boşlukları doldurun"
+        },
+        {
+          "SentenceEn": "the gap between wealth and poverty is growing",
+          "SentenceTr": "zenginlik ve yoksulluk arasındaki fark büyüyor"
         }
       ],
       "Pronunciation": "gep",
@@ -25923,7 +25956,7 @@
         ""
       ],
       "CreatedOn": "04/19/2025 11:33:53",
-      "UpdatedOn": null
+      "UpdatedOn": "04/23/2025 20:11:29"
     },
     {
       "Id": 1341,
@@ -26081,12 +26114,17 @@
       "Id": 1349,
       "English": "gather",
       "Turkish": [
-        "toplamak"
+        "toplamak",
+        "toplanmak"
       ],
       "Sentence": [
         {
           "SentenceEn": "i gathered some flowers for my mother's birthday",
           "SentenceTr": "annemin doğum günü için ona bir kitap verdi"
+        },
+        {
+          "SentenceEn": "sami's supporters gathered outside the courthouse",
+          "SentenceTr": "sami'nin destekçileri mahkeme binasının dışında toplandı"
         }
       ],
       "Pronunciation": "gedır",
@@ -26094,7 +26132,7 @@
         ""
       ],
       "CreatedOn": "04/19/2025 11:33:53",
-      "UpdatedOn": null
+      "UpdatedOn": "04/23/2025 20:11:29"
     },
     {
       "Id": 1350,
@@ -32996,12 +33034,17 @@
       "Id": 1704,
       "English": "junk",
       "Turkish": [
-        "eski püskü eşya"
+        "eski püskü eşya",
+        "hurda"
       ],
       "Sentence": [
         {
           "SentenceEn": "his room is full of junk",
           "SentenceTr": "odası eski püskü eşyalarla dolu"
+        },
+        {
+          "SentenceEn": "tom has accumulated a lot of junk",
+          "SentenceTr": "tom bir sürü hurda biriktirdi"
         }
       ],
       "Pronunciation": "cang",
@@ -33009,7 +33052,7 @@
         ""
       ],
       "CreatedOn": "04/19/2025 11:33:53",
-      "UpdatedOn": null
+      "UpdatedOn": "04/23/2025 20:11:29"
     },
     {
       "Id": 1705,
@@ -35030,7 +35073,8 @@
       "Turkish": [
         "çıkış",
         "hafif",
-        "yakmak"
+        "yakmak",
+        "aydınlık"
       ],
       "Sentence": [
         {
@@ -35044,6 +35088,10 @@
         {
           "SentenceEn": "shall i light a fire",
           "SentenceTr": "bir ateş yakayım mı"
+        },
+        {
+          "SentenceEn": "it's just five in the morning, but nevertheless it is light out",
+          "SentenceTr": "henüz sabahın beşiydi ama yine de aydınlıktı"
         }
       ],
       "Pronunciation": "layt",
@@ -35051,7 +35099,7 @@
         ""
       ],
       "CreatedOn": "04/19/2025 11:33:53",
-      "UpdatedOn": "04/19/2025 11:33:53"
+      "UpdatedOn": "04/23/2025 20:11:29"
     },
     {
       "Id": 1808,
@@ -35176,12 +35224,17 @@
       "Id": 1814,
       "English": "line",
       "Turkish": [
-        "çizgi"
+        "çizgi",
+        "kuyruk"
       ],
       "Sentence": [
         {
           "SentenceEn": "he drew a straight line on the page",
           "SentenceTr": "sayfaya dğz bir çizgi çizdi"
+        },
+        {
+          "SentenceEn": "the woman left and went to the courthouse, where she waited in line again",
+          "SentenceTr": "kadın ayrıldı ve tekrar kuyrukta beklediği adliyeye gitti"
         }
       ],
       "Pronunciation": "layn",
@@ -35189,7 +35242,7 @@
         ""
       ],
       "CreatedOn": "04/19/2025 11:33:53",
-      "UpdatedOn": null
+      "UpdatedOn": "04/23/2025 20:11:29"
     },
     {
       "Id": 1815,
@@ -48635,12 +48688,17 @@
       "Id": 2502,
       "English": "question",
       "Turkish": [
-        "soru"
+        "soru",
+        "sorgulamak"
       ],
       "Sentence": [
         {
           "SentenceEn": "i couldn't answer most of the questions",
           "SentenceTr": "soruların çoğunu cevaplayamadım"
+        },
+        {
+          "SentenceEn": "i question your loyalty",
+          "SentenceTr": "sadakatını sorguluyorum"
         }
       ],
       "Pronunciation": "kuesçın",
@@ -48648,7 +48706,7 @@
         ""
       ],
       "CreatedOn": "04/19/2025 11:33:53",
-      "UpdatedOn": null
+      "UpdatedOn": "04/23/2025 20:11:29"
     },
     {
       "Id": 2503,
@@ -51099,12 +51157,17 @@
       "Id": 2628,
       "English": "result",
       "Turkish": [
-        "sonuç"
+        "sonuç",
+        "sonuçlanmak"
       ],
       "Sentence": [
         {
           "SentenceEn": "what was the result of the selection",
           "SentenceTr": "seçimin sonucu neydi"
+        },
+        {
+          "SentenceEn": "many diseases result from poverty",
+          "SentenceTr": "çoğu hastalık yoksulluktan sonuçlanır"
         }
       ],
       "Pronunciation": "rizolt",
@@ -51112,7 +51175,7 @@
         ""
       ],
       "CreatedOn": "04/19/2025 11:33:53",
-      "UpdatedOn": null
+      "UpdatedOn": "04/23/2025 20:11:29"
     },
     {
       "Id": 2629,
@@ -57705,12 +57768,17 @@
       "Id": 2959,
       "English": "start",
       "Turkish": [
-        "başlamak"
+        "başlamak",
+        "kurmak"
       ],
       "Sentence": [
         {
           "SentenceEn": "she started to cry",
           "SentenceTr": "ağlamaya başladı"
+        },
+        {
+          "SentenceEn": "they started a small vegetable patch behind their house",
+          "SentenceTr": "evlerinin arkasında küçük bir sebze bahçesi kurdular"
         }
       ],
       "Pronunciation": "sıtart",
@@ -57718,7 +57786,7 @@
         ""
       ],
       "CreatedOn": "04/19/2025 11:33:53",
-      "UpdatedOn": null
+      "UpdatedOn": "04/23/2025 20:11:29"
     },
     {
       "Id": 2960,
@@ -62030,12 +62098,17 @@
       "Id": 3179,
       "English": "through",
       "Turkish": [
-        "arasından"
+        "arasından",
+        "sayesinde"
       ],
       "Sentence": [
         {
           "SentenceEn": "he walked through the park",
           "SentenceTr": "parkın içinden yürüdü"
+        },
+        {
+          "SentenceEn": "he has made a fortune through hard work",
+          "SentenceTr": "o çok çalışma sayesinde bir servet yaptı"
         }
       ],
       "Pronunciation": "tırıu",
@@ -62043,7 +62116,7 @@
         ""
       ],
       "CreatedOn": "04/19/2025 11:33:54",
-      "UpdatedOn": null
+      "UpdatedOn": "04/23/2025 20:11:29"
     },
     {
       "Id": 3180,
@@ -69882,6 +69955,633 @@
       "Notes": [],
       "CreatedOn": "04/21/2025 22:32:27",
       "UpdatedOn": "04/21/2025 22:32:27"
+    },
+    {
+      "Id": 3578,
+      "English": "orbit",
+      "Turkish": [
+        "yörünge"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "the esa put a satellite into orbit",
+          "SentenceTr": "esa yörüngeye bir uydu yerleştirdi"
+        }
+      ],
+      "Pronunciation": "orbit",
+      "Notes": [],
+      "CreatedOn": "04/23/2025 20:11:29",
+      "UpdatedOn": null
+    },
+    {
+      "Id": 3579,
+      "English": "juxtaposition",
+      "Turkish": [
+        "yan yana koyma"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "the artist used juxtaposition of light and dark to create contrast",
+          "SentenceTr": "sanatçı, aydınlık ve karanlığı yan yana koyarak kontrast yarattı"
+        }
+      ],
+      "Pronunciation": "cakstıpızişın",
+      "Notes": [],
+      "CreatedOn": "04/23/2025 20:11:29",
+      "UpdatedOn": null
+    },
+    {
+      "Id": 3580,
+      "English": "poverty",
+      "Turkish": [
+        "fakirlik"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "there's an intentional juxtaposition of wealth and poverty in the movie",
+          "SentenceTr": "filmde zenginlik ve yoksulluğun bilinçli bir şekilde karşı karşıya getirilmesi var"
+        }
+      ],
+      "Pronunciation": "pavırtıi",
+      "Notes": [],
+      "CreatedOn": "04/23/2025 20:11:29",
+      "UpdatedOn": null
+    },
+    {
+      "Id": 3581,
+      "English": "undefined",
+      "Turkish": [
+        "tanımsız"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "if you divide any number by zero, the result is undefined",
+          "SentenceTr": "eğer herhangi bir sayıyı sıfıra bölerseniz, sonuç tanımsızdır"
+        }
+      ],
+      "Pronunciation": "andifaynd",
+      "Notes": [],
+      "CreatedOn": "04/23/2025 20:11:29",
+      "UpdatedOn": null
+    },
+    {
+      "Id": 3582,
+      "English": "intentional",
+      "Turkish": [
+        "kasıtlı"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "i'm sure that wasn't intentional",
+          "SentenceTr": "onun kasıtlı olmadığına eminim"
+        }
+      ],
+      "Pronunciation": "intenşınıl",
+      "Notes": [],
+      "CreatedOn": "04/23/2025 20:11:29",
+      "UpdatedOn": null
+    },
+    {
+      "Id": 3583,
+      "English": "wealth",
+      "Turkish": [
+        "zenginlik",
+        "servet"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "i don't care for wealth and fame",
+          "SentenceTr": "zenginlik ve şöhret umurumda değil"
+        },
+        {
+          "SentenceEn": "i was given a minor share of my father's wealth",
+          "SentenceTr": "bana babamın servetinden küçük bir pay verildi"
+        }
+      ],
+      "Pronunciation": "velt",
+      "Notes": [],
+      "CreatedOn": "04/23/2025 20:11:29",
+      "UpdatedOn": "04/23/2025 20:11:29"
+    },
+    {
+      "Id": 3584,
+      "English": "wealthy",
+      "Turkish": [
+        "varlıklı"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "roosevelt was born to a wealthy family in new york city in 1858",
+          "SentenceTr": "roosevelt, 1858 yılında new york'ta varlıklı bir ailenin çocuğu olarak dünyaya geldi"
+        },
+        {
+          "SentenceEn": "he is wealthy in appearance but not in reality",
+          "SentenceTr": "o görünüşte varlıklı fakat gerçekte değildir"
+        }
+      ],
+      "Pronunciation": "velti",
+      "Notes": [],
+      "CreatedOn": "04/23/2025 20:11:29",
+      "UpdatedOn": "04/23/2025 20:11:29"
+    },
+    {
+      "Id": 3585,
+      "English": "accumulate",
+      "Turkish": [
+        "biriktirmek"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "he accumulated great wealth through investments",
+          "SentenceTr": "yatırımlar sayesinde büyük bir servet biriktirdi"
+        }
+      ],
+      "Pronunciation": "ıkyumyıleyt",
+      "Notes": [],
+      "CreatedOn": "04/23/2025 20:11:29",
+      "UpdatedOn": null
+    },
+    {
+      "Id": 3586,
+      "English": "neighborhood",
+      "Turkish": [
+        "semt"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "only the wealthy can afford houses in that neighborhood",
+          "SentenceTr": "o mahallede sadece varlıklı insanlar ev alabilir"
+        }
+      ],
+      "Pronunciation": "neybırhuud",
+      "Notes": [],
+      "CreatedOn": "04/23/2025 20:11:29",
+      "UpdatedOn": null
+    },
+    {
+      "Id": 3587,
+      "English": "wisely",
+      "Turkish": [
+        "akıllıca"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "by investing wisely, she accumulated a fortune",
+          "SentenceTr": "o akıllıca yatırım yaparak, bir servet biriktirmiş"
+        }
+      ],
+      "Pronunciation": "vayzlıi",
+      "Notes": [],
+      "CreatedOn": "04/23/2025 20:11:29",
+      "UpdatedOn": null
+    },
+    {
+      "Id": 3588,
+      "English": "dare",
+      "Turkish": [
+        "cesaret etmek"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "he doesn't dare to reach for fame",
+          "SentenceTr": "o, şöhrete kavuşmaya cesaret edemiyor"
+        }
+      ],
+      "Pronunciation": "deır",
+      "Notes": [],
+      "CreatedOn": "04/23/2025 20:11:29",
+      "UpdatedOn": null
+    },
+    {
+      "Id": 3589,
+      "English": "even though",
+      "Turkish": [
+        "rağmen"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "even though he was tired, he kept working",
+          "SentenceTr": "yorgun olmasına rağmen çalışmaya devam etti"
+        }
+      ],
+      "Pronunciation": "iğvın doo",
+      "Notes": [],
+      "CreatedOn": "04/23/2025 20:11:29",
+      "UpdatedOn": null
+    },
+    {
+      "Id": 3590,
+      "English": "fame",
+      "Turkish": [
+        "şöhret"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "even with all his wealth and fame, he's unhappy",
+          "SentenceTr": "bütün zenginliği ve şöhretine rağmen o mutsuzdur"
+        }
+      ],
+      "Pronunciation": "feym",
+      "Notes": [],
+      "CreatedOn": "04/23/2025 20:11:29",
+      "UpdatedOn": null
+    },
+    {
+      "Id": 3591,
+      "English": "undergo",
+      "Turkish": [
+        "geçirmek"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "the surgeon persuaded him to undergo an organ transplant",
+          "SentenceTr": "cerrah bir organ nakli geçirmesi için onu ikna etti"
+        }
+      ],
+      "Pronunciation": "andırgou",
+      "Notes": [],
+      "CreatedOn": "04/23/2025 20:11:29",
+      "UpdatedOn": null
+    },
+    {
+      "Id": 3592,
+      "English": "renovation",
+      "Turkish": [
+        "yenileme",
+        "onarım"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "the building underwent major renovations",
+          "SentenceTr": "bina büyük bir yenileme sürecinden geçti"
+        },
+        {
+          "SentenceEn": "the teachers' room and the gym are under renovation",
+          "SentenceTr": "öğretmenler odası ve spor salonu onarım altında"
+        }
+      ],
+      "Pronunciation": "renıveyşın",
+      "Notes": [],
+      "CreatedOn": "04/23/2025 20:11:29",
+      "UpdatedOn": "04/23/2025 20:11:29"
+    },
+    {
+      "Id": 3593,
+      "English": "transplant",
+      "Turkish": [
+        "organ nakli",
+        "nakletmek",
+        "dikmek",
+        "nakledilmek"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "he had a heart transplant last year",
+          "SentenceTr": "geçen yıl kalp nakli oldu"
+        },
+        {
+          "SentenceEn": "doctors transplanted a kidney into the patient",
+          "SentenceTr": "doktorlar hastaya bir böbrek nakletti"
+        },
+        {
+          "SentenceEn": "tom carefully transplanted the tiny tomato seedlings into his vegetable patch",
+          "SentenceTr": "tom sebze bahçesine minik domates fidelerini dikkatlice dikti"
+        },
+        {
+          "SentenceEn": "he was transplanted to another office abroad",
+          "SentenceTr": "yurt dışındaki başka bir ofise nakledildi"
+        }
+      ],
+      "Pronunciation": "tırenspılant",
+      "Notes": [],
+      "CreatedOn": "04/23/2025 20:11:29",
+      "UpdatedOn": "04/23/2025 20:11:29"
+    },
+    {
+      "Id": 3594,
+      "English": "vegetable patch",
+      "Turkish": [
+        "sebze bahçesi"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "my grandmother grows tomatoes in her vegetable patch",
+          "SentenceTr": "büyükannem sebze bahçesinde domates yetiştiriyor"
+        }
+      ],
+      "Pronunciation": "vectıbıl peç",
+      "Notes": [],
+      "CreatedOn": "04/23/2025 20:11:29",
+      "UpdatedOn": null
+    },
+    {
+      "Id": 3595,
+      "English": "seedling",
+      "Turkish": [
+        "fide"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "seedlings are young plants",
+          "SentenceTr": "fideler genç bitkilerdir"
+        }
+      ],
+      "Pronunciation": "siidlıing",
+      "Notes": [],
+      "CreatedOn": "04/23/2025 20:11:29",
+      "UpdatedOn": null
+    },
+    {
+      "Id": 3596,
+      "English": "patch",
+      "Turkish": [
+        "yama",
+        "yamamak"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "these days, people rarely wear patches on their elbows and knees",
+          "SentenceTr": "bugünlerde, insanlar nadiren kendi dirsek ve dizleri üzerinde yamalar giymektedir"
+        },
+        {
+          "SentenceEn": "my mother had to patch my pants",
+          "SentenceTr": "annem pantolonumu yamamak zorunda kaldı"
+        }
+      ],
+      "Pronunciation": "peeç",
+      "Notes": [],
+      "CreatedOn": "04/23/2025 20:11:29",
+      "UpdatedOn": "04/23/2025 20:11:29"
+    },
+    {
+      "Id": 3597,
+      "English": "vegetation",
+      "Turkish": [
+        "bitki örtüsü"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "there were only a few patches of vegetation near the river",
+          "SentenceTr": "nehrin yakınındaki bitki örtüsünün sadece birkaç yaması vardı"
+        }
+      ],
+      "Pronunciation": "vecıteyşın",
+      "Notes": [],
+      "CreatedOn": "04/23/2025 20:11:29",
+      "UpdatedOn": null
+    },
+    {
+      "Id": 3598,
+      "English": "payload",
+      "Turkish": [
+        "taşıma yükü"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "the rocket successfully delivered its payload into orbit",
+          "SentenceTr": "roket, faydalı yükünü başarıyla yörüngeye taşıdı"
+        }
+      ],
+      "Pronunciation": "peyloud",
+      "Notes": [],
+      "CreatedOn": "04/23/2025 20:11:29",
+      "UpdatedOn": null
+    },
+    {
+      "Id": 3599,
+      "English": "malware",
+      "Turkish": [
+        "kötü amaçlı yazılım"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "the malware contains a dangerous payload",
+          "SentenceTr": "zararlı yazılım, tehlikeli bir görev yükü içeriyor"
+        }
+      ],
+      "Pronunciation": "melveır",
+      "Notes": [],
+      "CreatedOn": "04/23/2025 20:11:29",
+      "UpdatedOn": null
+    },
+    {
+      "Id": 3600,
+      "English": "gavel",
+      "Turkish": [
+        "tokmak"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "judges often use gavels",
+          "SentenceTr": "yargıçlar sık sık tokmak kullanır"
+        }
+      ],
+      "Pronunciation": "gevıl",
+      "Notes": [],
+      "CreatedOn": "04/23/2025 20:11:29",
+      "UpdatedOn": null
+    },
+    {
+      "Id": 3601,
+      "English": "courthouse",
+      "Turkish": [
+        "adliye"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "the courthouse ordered new gavels",
+          "SentenceTr": "adliye yeni tokmaklar sipariş etti"
+        }
+      ],
+      "Pronunciation": "korthaus",
+      "Notes": [],
+      "CreatedOn": "04/23/2025 20:11:29",
+      "UpdatedOn": null
+    },
+    {
+      "Id": 3602,
+      "English": "delight",
+      "Turkish": [
+        "mutlu etmek"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "the speech made by the president yesterday delighted his supporters",
+          "SentenceTr": "başkan tarafından yapılan konuşma taraftarlarını mutlu etti"
+        }
+      ],
+      "Pronunciation": "dilayt",
+      "Notes": [],
+      "CreatedOn": "04/23/2025 20:11:29",
+      "UpdatedOn": null
+    },
+    {
+      "Id": 3603,
+      "English": "supporter",
+      "Turkish": [
+        "taraftar"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "they called british supporters tories",
+          "SentenceTr": "onlar ingiliz taraftarlarına muhafazakarlar adını verdiler"
+        }
+      ],
+      "Pronunciation": "sıportır",
+      "Notes": [],
+      "CreatedOn": "04/23/2025 20:11:29",
+      "UpdatedOn": null
+    },
+    {
+      "Id": 3604,
+      "English": "tory",
+      "Turkish": [
+        "muhafazakar"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "he has always voted for the tories",
+          "SentenceTr": "her zaman muhafazakârlar için oy verdi"
+        }
+      ],
+      "Pronunciation": "tori",
+      "Notes": [],
+      "CreatedOn": "04/23/2025 20:11:29",
+      "UpdatedOn": null
+    },
+    {
+      "Id": 3605,
+      "English": "loyal",
+      "Turkish": [
+        "sadık"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "she's a loyal tory supporter",
+          "SentenceTr": "o, sadık bir muhafazakâr parti destekçisidir"
+        }
+      ],
+      "Pronunciation": "loyıl",
+      "Notes": [],
+      "CreatedOn": "04/23/2025 20:11:29",
+      "UpdatedOn": null
+    },
+    {
+      "Id": 3606,
+      "English": "loyalty",
+      "Turkish": [
+        "sadakat"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "this shows his loyalty to his friends",
+          "SentenceTr": "bu, onun, arkadaşlarına olan bağlılığını gösteriyor"
+        }
+      ],
+      "Pronunciation": "loyıltıi",
+      "Notes": [],
+      "CreatedOn": "04/23/2025 20:11:29",
+      "UpdatedOn": null
+    },
+    {
+      "Id": 3607,
+      "English": "restore",
+      "Turkish": [
+        "eski haline getirmek",
+        "geri vermek"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "they restored the old castle beautifully",
+          "SentenceTr": "eski kaleyi çok güzel bir şekilde yenilediler"
+        },
+        {
+          "SentenceEn": "the police restored the stolen items to their owner",
+          "SentenceTr": "polis çalınan eşyaları sahibine geri verdi"
+        }
+      ],
+      "Pronunciation": "ristor",
+      "Notes": [],
+      "CreatedOn": "04/23/2025 20:11:29",
+      "UpdatedOn": "04/23/2025 20:11:29"
+    },
+    {
+      "Id": 3608,
+      "English": "in order to",
+      "Turkish": [
+        "mek için",
+        "diye"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "in order to make us and everyone else remember this day, i ask everyone to plant a tree with us",
+          "SentenceTr": "bize ve başka herkese bu günü hatırlatmak için, bizimle birlikte herkese bir ağaç dikmesini rica ediyorum"
+        },
+        {
+          "SentenceEn": "this new product has been checked twice this week in order to avoid any problem during the installation",
+          "SentenceTr": "yeni ürün, kurulum sırasında herhangi bir sorun çıkmasın diye bu hafta iki kez kontrol edildi"
+        }
+      ],
+      "Pronunciation": "in ordır tu",
+      "Notes": [],
+      "CreatedOn": "04/23/2025 20:11:29",
+      "UpdatedOn": "04/23/2025 20:11:29"
+    },
+    {
+      "Id": 3609,
+      "English": "era",
+      "Turkish": [
+        "çağ"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "in order to return to our era, what should we do",
+          "SentenceTr": "çağımıza geri dönmek için ne yapmalıyız"
+        }
+      ],
+      "Pronunciation": "ira",
+      "Notes": [],
+      "CreatedOn": "04/23/2025 20:11:29",
+      "UpdatedOn": null
+    },
+    {
+      "Id": 3610,
+      "English": "naval",
+      "Turkish": [
+        "deniz"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "tom and mary went to the aquarium, the folk art museum and the naval museum",
+          "SentenceTr": "tom ve mary akvaryuma, halk sanat müzesine ve deniz müzesi'ne gitti"
+        }
+      ],
+      "Pronunciation": "neyvıl",
+      "Notes": [],
+      "CreatedOn": "04/23/2025 20:11:29",
+      "UpdatedOn": null
+    },
+    {
+      "Id": 3611,
+      "English": "atomic",
+      "Turkish": [
+        "atom",
+        "atomik"
+      ],
+      "Sentence": [
+        {
+          "SentenceEn": "we are in the era of atomic energy",
+          "SentenceTr": "atom enerjisi çağındayız"
+        },
+        {
+          "SentenceEn": "scientists study the atomic structure of materials",
+          "SentenceTr": "bilim insanları maddelerin atomik yapısını inceliyor"
+        }
+      ],
+      "Pronunciation": "ıtomik",
+      "Notes": [],
+      "CreatedOn": "04/23/2025 20:11:29",
+      "UpdatedOn": "04/23/2025 20:11:29"
     }
   ]
 }
